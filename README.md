@@ -22,9 +22,9 @@ libOsiClp\
 libClpSolver\
 libCbcSolver\
 libCbc\
-cbc\
+cbc
 
-the dependencies can be downloaded from (https://github.com/coin-or)\
+the dependencies can be downloaded from (https://github.com/coin-or)
  
 hardnut.ug is a nasty graph with many small low-weight sub-cycles.
 these are stitched together in a heirarchy using beefier edges.
